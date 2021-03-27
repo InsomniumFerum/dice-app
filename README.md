@@ -32,6 +32,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#game-rules">Game Rules</a></li>
+      </ul>
+      <ul>
+        <li><a href="#additional-rules">Additional Rules</a></li>
+      </ul>
+      <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
