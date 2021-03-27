@@ -68,14 +68,15 @@
 ### Built With
 
 ##### JavaScript Used
-
-* DOM Manipulation
-* JavaScript CSS Manipulation
-* addEventListener
-
 * [Javascipt](https://www.javascript.com/)
 * [HTML](https://html.com/)
 * [CSS](https://css.com/)
+
+1. DOM Manipulation
+2. JavaScript CSS Manipulation
+3. addEventListener
+
+
 
 <!-- CONTACT -->
 ## Contact
