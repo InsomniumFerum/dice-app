@@ -52,12 +52,6 @@
 
 <img src="images/project.png" width="800">
 
-#### JavaScript Used
-
-* DOM Manipulation
-* JavaScript CSS Manipulation
-* addEventListener
-
 # GAME RULES
 
 1. The game has 2 players, playing in rounds.
@@ -73,7 +67,12 @@
 3. Players can change the score to win by entering a new number in the "INPUT SCORE".
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+##### JavaScript Used
+
+* DOM Manipulation
+* JavaScript CSS Manipulation
+* addEventListener
+
 * [Javascipt](https://www.javascript.com/)
 * [HTML](https://html.com/)
 * [CSS](https://css.com/)
