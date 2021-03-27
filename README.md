@@ -77,7 +77,7 @@ This section should list any major frameworks that you built your project using.
 
 Furkan Çat - [@FurkanCat](https://twitter.com/FurkanCat) - furi544@gmail.com
 
-Project Link: [Project Link](https://github.com/InsomniumFerum/Drum-Kit)
+Project Link: [Project Link](https://github.com/InsomniumFerum/dice-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
