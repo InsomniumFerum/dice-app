@@ -58,13 +58,11 @@
 2. In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score.
 3. BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn.
 4. The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn.
-5. The first player to reach 100 points on GLOBAL score wins the game.
 
 ## Additional Rules
 
 1. A player looses their ENTIRE score when he rolls two double 6 in row. After that, it's the next player's turn.
 2. The player will loose their current score when one of the dice is a 1. After that, it's the next player's turn.
-3. Players can change the score to win by entering a new number in the "INPUT SCORE".
 ### Built With
 
 ##### JavaScript Used
