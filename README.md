@@ -50,7 +50,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/project.png" width="800">
+[Project-Demo](https://dice-app-js.netlify.app/)
+
+<img src="images/project.png" width="600">
 
 # GAME RULES
 
