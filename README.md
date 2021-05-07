@@ -50,6 +50,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Simple dice game. Press the button and enjoy..
+
 [Project-Demo](https://dice-app-js.netlify.app/)
 
 <img src="images/project.png" width="600">
